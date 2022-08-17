@@ -5,10 +5,10 @@ O objetivo deste desafio é avaliar o domínio das habilidades FullStack, a orga
 O desafio é disponibilizado acessando o seguinte link: https://github.com/cubonetwork/fullstack-challenge.
 
 ## :link: Link Surge 
-- Acesse o site clicando no link **LINK**.
+- Acesse o site clicando no [link](https://cubotest.surge.sh/).
 
 ## :link: Link Documentação
-- Acesse a documentação clicando no link **LINK**.
+- Acesse a documentação clicando no [link](https://documenter.getpostman.com/view/14453564/Uzs42Qf7).
 
 
 ## ⚙️ Funcionalidades
